@@ -1,7 +1,7 @@
 # datathon-8mlet-grupo-16
 
 ## bases de dados para escolher
-bank-marketing (henriqueyamahata) 
+(Escolhida)bank-marketing (henriqueyamahata) 
 https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
 bank-marketing-data-set (tunguz) 
 https://www.kaggle.com/datasets/tunguz/bank-marketing-data-set
