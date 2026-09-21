@@ -1,0 +1,8 @@
+mlflow
+kagglehub[pandas-datasets]
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+
